@@ -23,11 +23,11 @@
 
 ###
 
-<p align="left">Hi, I’m @Thepi14<br>    I’m interested in making Unity games<br>    I’m currently learning Unity and C#<br>    I’m looking to collaborate on Unity games<br>    Pronouns: The Maginot Line<br>    Fun fact: The War on Chessboard has copyright music</p>
+<p align="left">Hi, I’m @Thepi14<br>    I’m interested in making Unity games<br>    I’m currently learning Java for game modding<br>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
@@ -42,8 +42,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
