@@ -4,7 +4,7 @@
 
 ###
 
-<h6 align="center">Kugelblitz haha</h6>
+<h6 align="center">Random photo</h6>
 
 ###
 
